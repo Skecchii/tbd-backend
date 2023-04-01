@@ -9,6 +9,16 @@ const showAllProducts = async (req,res) => {
     }
 }
 
+const getProductsByCategory = async (req, res) => {
+    const { categoryName } = req.params;
+    try {
+        const products = await Product.find({ category: categoryName.toLowerCase() });
+        res.json(products)
+    } catch (err) {
+        res.status(400).json(err)
+    }
+}
+
 const productDetails = async (req, res) => {
     try {
         const product = await Product.findById(req.params.productId);
@@ -56,10 +66,12 @@ const deleteProduct = async (req, res) => {
     }
 };
 
+
 module.exports = {
     showAllProducts,
     productDetails,
     createProduct,
     updateProduct,
-    deleteProduct
+    deleteProduct,
+    getProductsByCategory
 }

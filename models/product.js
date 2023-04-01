@@ -6,7 +6,7 @@ const productSchema = new mongoose.Schema({
     description: { type: String, required: true, maxLength: 250},
     category: { 
         type: String, 
-        enum: ['Engine', 'Transmission', 'Suspension', 'Brakes', 'Exhaust', 'Interior', 'Exterior'], 
+        enum: ['engine', 'transmission', 'suspension', 'brakes', 'exhaust', 'interior', 'exterior'], 
         required: true 
       },
     imageUrl: { type: String, required: true },

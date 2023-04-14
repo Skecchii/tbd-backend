@@ -9,7 +9,7 @@ const productSchema = new mongoose.Schema({
         enum: ['engine', 'transmission', 'suspension', 'brakes', 'exhaust', 'interior', 'exterior'], 
         required: true 
       },
-    imageUrl: { type: String, required: true },
+    imageUrl: { type: String, default: 'https://placewaifu.com/image/350?blur' },
     relatedProducts: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Product' }]
   });
 

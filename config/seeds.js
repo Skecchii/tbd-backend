@@ -7,7 +7,7 @@ const products = [
     price: 10.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'engine',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -15,7 +15,7 @@ const products = [
     price: 19.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'transmission',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -23,7 +23,7 @@ const products = [
     price: 5.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'suspension',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -31,7 +31,7 @@ const products = [
     price: 8.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'brakes',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -39,7 +39,7 @@ const products = [
     price: 12.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exhaust',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -47,7 +47,7 @@ const products = [
     price: 6.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'interior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -55,7 +55,7 @@ const products = [
     price: 14.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exterior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -63,7 +63,7 @@ const products = [
     price: 10.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'engine',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -71,7 +71,7 @@ const products = [
     price: 19.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'transmission',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -79,7 +79,7 @@ const products = [
     price: 5.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'suspension',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -87,7 +87,7 @@ const products = [
     price: 8.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'brakes',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -95,7 +95,7 @@ const products = [
     price: 12.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exhaust',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -103,7 +103,7 @@ const products = [
     price: 6.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'interior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -111,7 +111,7 @@ const products = [
     price: 14.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exterior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -119,7 +119,7 @@ const products = [
     price: 10.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'engine',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -127,7 +127,7 @@ const products = [
     price: 19.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'transmission',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -135,7 +135,7 @@ const products = [
     price: 5.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'suspension',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -143,7 +143,7 @@ const products = [
     price: 8.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'brakes',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -151,7 +151,7 @@ const products = [
     price: 12.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exhaust',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -159,7 +159,7 @@ const products = [
     price: 6.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'interior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -167,7 +167,7 @@ const products = [
     price: 14.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exterior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -175,7 +175,7 @@ const products = [
     price: 10.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'engine',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -183,7 +183,7 @@ const products = [
     price: 19.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'transmission',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -191,7 +191,7 @@ const products = [
     price: 5.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'suspension',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -199,7 +199,7 @@ const products = [
     price: 8.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'brakes',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -207,7 +207,7 @@ const products = [
     price: 12.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exhaust',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -215,7 +215,7 @@ const products = [
     price: 6.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'interior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
   {
@@ -223,7 +223,7 @@ const products = [
     price: 14.99,
     description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
     category: 'exterior',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: 'https://placewaifu.com/image/350?blur',
     relatedProducts: []
   },
 ]

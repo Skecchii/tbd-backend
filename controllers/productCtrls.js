@@ -14,7 +14,8 @@ const showAllProducts = async (req,res) => {
 const getProductsByCategory = async (req, res) => {
     const { categoryName } = req.params;
     try {
-        const products = await Product.find({ category: categoryName.toLowerCase() });
+        const products = await Product.find({ category: categoryName });
+        console.log(products)
         res.json(products)
     } catch (err) {
         console.log(`server unable to retrieve products by category, ${err}`)

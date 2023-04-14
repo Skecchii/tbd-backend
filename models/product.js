@@ -6,7 +6,7 @@ const productSchema = new mongoose.Schema({
     description: { type: String, required: true, maxLength: 250},
     category: { 
         type: String, 
-        enum: ['engine', 'transmission', 'suspension', 'brakes', 'exhaust', 'interior', 'exterior'], 
+        enum: ['kissCut', 'peeker', 'boxSlap'], 
         required: true 
       },
     imageUrl: { type: String, default: 'https://placewaifu.com/image/350?blur' },
